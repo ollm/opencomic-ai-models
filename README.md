@@ -5,7 +5,7 @@ This package provides access to AI models used in OpenComic AI.
 ## Installation
 
 ```
-npm install opencomic-ai-models
+npm install github:ollm/opencomic-ai-models
 ```
 
 ## Methods
@@ -69,3 +69,11 @@ Model | Name | Upscaler | Source
 `RealESRGAN_General_x4_v3` | RealESRGAN General v3 | `upscayl` | [upscayl/custom-models](https://github.com/upscayl/custom-models/tree/4b6d2cfa59c7442af115dfc6e50fd8d7d40b96ef/models)
 `uniscale_restore_x4` | Uniscale Restore x4 | `upscayl` | [upscayl/custom-models](https://github.com/upscayl/custom-models/tree/4b6d2cfa59c7442af115dfc6e50fd8d7d40b96ef/models)
 `unknown-2.0.1` | Unknown 2.0.1 | `upscayl` | [upscayl/custom-models](https://github.com/upscayl/custom-models/tree/4b6d2cfa59c7442af115dfc6e50fd8d7d40b96ef/models)
+
+## Credits
+
+This project uses the following AI models and upscalers:
+- [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [Waifu2x](https://github.com/nagadomi/waifu2x)
+- [Upscayl](https://github.com/upscayl/upscayl)
