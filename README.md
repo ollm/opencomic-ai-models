@@ -4,7 +4,7 @@ This package provides access to AI models used in OpenComic AI.
 
 ## Installation
 
-```js
+```
 npm install opencomic-ai-models
 ```
 
