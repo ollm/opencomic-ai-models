@@ -1,6 +1,6 @@
 {
 	"name": "opencomic-ai-models",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Upscale and dehalftone models like Real-CUGAN, Real-ESRGAN, Waifu2x and Upscayl.",
 	"main": "index.mts",
 	"type": "module",
