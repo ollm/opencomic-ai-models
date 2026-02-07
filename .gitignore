@@ -5,3 +5,5 @@ assets
 
 # OSX
 .DS_Store
+
+models/test-models

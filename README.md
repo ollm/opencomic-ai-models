@@ -34,6 +34,9 @@ const modelsPath = OpenComicAIModels.path;
 
 Model | Name | Upscaler | Source
 ------|------|----------|-------
+`opencomic-ai-artifact-removal-compact` | OpenComic AI Artifact Removal Compact | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
+`opencomic-ai-artifact-removal-lite` | OpenComic AI Artifact Removal Lite | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
+`opencomic-ai-artifact-removal` | OpenComic AI Artifact Removal | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
 `1x_NMKD-Jaywreck3-Lite_320k` | NMKD Jaywreck3 Lite | `upscayl` | [NMKD.de](https://nmkd.de/?esrgan)
 `1x_NMKD-Jaywreck3-Soft-Lite_320k` | NMKD Jaywreck3 Soft Lite | `upscayl` | [NMKD.de](https://nmkd.de/?esrgan)
 `1x-SaiyaJin-DeJpeg` | SaiyaJin DeJpeg | `upscayl` | [OpenModelDB](https://openmodeldb.info/models/1x-SaiyaJin-DeJpeg)
@@ -43,6 +46,8 @@ Model | Name | Upscaler | Source
 
 Model | Name | Upscaler | Source
 ------|------|----------|-------
+`opencomic-ai-descreen-compact` | OpenComic AI Descreen Compact | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
+`opencomic-ai-descreen-lite` | OpenComic AI Descreen Lite | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
 `1x_halftone_patch_060000_G` | Halftone Patch 060000 G | `upscayl` | [NMKD.de](https://nmkd.de/shared/?dir=ESRGAN/Models/Compression/Halftone)
 `1x_wtp_descreenton_compact` | WTP DescreenTon Compact | `upscayl` | [OpenModelDB](https://openmodeldb.info/models/1x-wtp-descreentone-compact)
 
