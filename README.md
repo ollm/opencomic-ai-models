@@ -46,8 +46,8 @@ Model | Name | Upscaler | Source
 
 Model | Name | Upscaler | Source
 ------|------|----------|-------
-`opencomic-ai-descreen-compact` | OpenComic AI Descreen Compact | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
-`opencomic-ai-descreen-lite` | OpenComic AI Descreen Lite | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
+`opencomic-ai-descreen-hard-compact` | OpenComic AI Descreen Hard Compact | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
+`opencomic-ai-descreen-hard-lite` | OpenComic AI Descreen Hard Lite | `upscayl` | [ollm/opencomic-ai-training](https://github.com/ollm/opencomic-ai-training)
 `1x_halftone_patch_060000_G` | Halftone Patch 060000 G | `upscayl` | [NMKD.de](https://nmkd.de/shared/?dir=ESRGAN/Models/Compression/Halftone)
 `1x_wtp_descreenton_compact` | WTP DescreenTon Compact | `upscayl` | [OpenModelDB](https://openmodeldb.info/models/1x-wtp-descreentone-compact)
 
