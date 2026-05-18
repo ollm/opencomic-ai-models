@@ -86,3 +86,13 @@ This project uses the following AI models and upscalers:
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [Waifu2x](https://github.com/nagadomi/waifu2x)
 - [Upscayl](https://github.com/upscayl/upscayl)
+
+## Related Projects
+
+- [OpenComic](https://github.com/ollm/OpenComic)
+- [`ollm/opencomic-ai-bin`](https://github.com/ollm/opencomic-ai-bin)
+- [`ollm/opencomic-ai-training`](https://github.com/ollm/opencomic-ai-training)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
