@@ -95,4 +95,13 @@ This project uses the following AI models and upscalers:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+| Component | License |
+|---|---|
+| Source code | MIT |
+| OpenComic AI model weights | CC BY 4.0 |
+
+The source code of this repository is licensed under the MIT License.
+
+OpenComic AI model weights are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+See [LICENSE](LICENSE) and [LICENSE_MODELS](LICENSE_MODELS) for details.
