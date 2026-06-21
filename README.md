@@ -101,7 +101,7 @@ If you use this project, please cite it as follows.
 
 ``` bibtex
 @software{opencomic_ai,
-    author = {Oleguer Llopart Mora},
+    author = {Llopart Mora, Oleguer},
     title = {{OpenComic AI}},
     year = {2026},
     version = {2.0},
@@ -116,7 +116,7 @@ Release models citation. To see the differences between versions, you can check 
 
 ``` bibtex
 @software{opencomic_ai_models_v1_0,
-    author = {Oleguer Llopart Mora},
+    author = {Llopart Mora, Oleguer},
     title = {{OpenComic AI v1.0 Models}},
     year = {2026},
     version = {1.0},
@@ -129,7 +129,7 @@ Release models citation. To see the differences between versions, you can check 
 
 ``` bibtex
 @software{opencomic_ai_models_v2_0,
-    author = {Oleguer Llopart Mora},
+    author = {Llopart Mora, Oleguer},
     title = {{OpenComic AI v2.0 Models}},
     year = {2026},
     version = {2.0},
