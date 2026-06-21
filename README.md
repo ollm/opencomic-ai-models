@@ -104,6 +104,7 @@ If you use this project, please cite it as follows.
     author = {Oleguer Llopart Mora},
     title = {{OpenComic AI}},
     year = {2026},
+	version = {2.0},
     publisher = {GitHub},
     url = {https://github.com/ollm/opencomic-ai-training}
 }
@@ -118,6 +119,7 @@ Release models citation. To see the differences between versions, you can check 
     author = {Oleguer Llopart Mora},
     title = {{OpenComic AI v1.0 Models}},
     year = {2026},
+	version = {1.0},
     publisher = {GitHub},
     url = {https://github.com/ollm/opencomic-ai-training/releases/tag/v1.0}
 }
@@ -130,6 +132,7 @@ Release models citation. To see the differences between versions, you can check 
     author = {Oleguer Llopart Mora},
     title = {{OpenComic AI v2.0 Models}},
     year = {2026},
+	version = {2.0},
     publisher = {GitHub},
     url = {https://github.com/ollm/opencomic-ai-training/releases/tag/v2.0}
 }
